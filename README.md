@@ -9,7 +9,9 @@ This Android application, developed using Room Database, provides the following 
 - Simulates heart-rate readings  
 - Computes respiratory rate from breathing CSV input  
 - Records 10 different symptoms using a 1–5 star rating scale  
-- Stores all entries in Room DB and displays them in a history screen  
+- Stores all entries in Room DB and displays them in a history screen
+  
+**Youtube Link** - https://youtu.be/XkmDmi892RE
 
 ---
 
